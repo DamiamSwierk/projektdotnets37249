@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = projekt
+build_property.RootNamespace = projekt
+build_property.ProjectDir = C:\Users\diabl\Desktop\projektdotnet\projekt\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\diabl\Desktop\projektdotnet\projekt
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Districts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Districts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Districts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Districts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Districts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fisheries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaGVyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fisheries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaGVyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fisheries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaGVyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fisheries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaGVyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fisheries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaGVyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fish/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fish/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fish/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fish/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Fish/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlzaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Species/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Species/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Species/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Species/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Species/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2llc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/diabl/Desktop/projektdotnet/projekt/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r6sl0zbmds
